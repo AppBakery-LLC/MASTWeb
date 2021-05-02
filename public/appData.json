@@ -1,0 +1,644 @@
+{
+    "appname" : "Mujaddid Alif Sani",
+    "wlfshortname" : "MAST",
+    "wlflongname" : "Mujaddid Alf Sani Welfare Trust International",
+    "appshortdesc" : "Mujaddid Alif Sani",
+    "applongdesc" : "Mujaddid Alif Sani",
+    "appsmallwriteup" : "Mujaddid Alif Sani",
+    "applongwriteup" : "Mujaddid Alif Sani",
+    "applogourl" : "/assets/img/logo/logo_mast.jpg",
+    "appcontact" : {
+        "emails" : [
+            {
+                "location" : "both",
+                "email" : "info@mujaddidalifsani.com"
+            }
+        ],
+        "phonenumbers" : [
+            {
+                "id" : 1,
+                "location" : "uk",
+                "phnumber" : "00447972377903"
+            },
+            {
+                "id" : 2,
+                "location" : "pak",
+                "phnumber" : "02136740009"
+            },
+            {
+                "id" : 3,
+                "location" : "pak",
+                "phnumber" : "03002230155"
+            }
+        ],
+        "addresses" : [
+            {
+                "id" : 1,
+                "location" : "uk",
+                "address" : "20 Gunthorpe Drive,Sherwood Nottingham, NG5 3DW"
+            },
+            {
+                "id" : 2,
+                "location" : "pak",
+                "address" : "House No 83 sector 4f, mujhaid colony Orangi town S.I.T.E Karachi"
+            }
+        ]
+    },
+    "appcontactPAK" : {
+        "emails" : [
+            {
+                "location" : "both",
+                "email" : "info@mujaddidalifsani.com"
+            }
+        ],
+        "phonenumbers" : [
+            {
+                "id" : 2,
+                "location" : "pak",
+                "phnumber" : "02136740009"
+            },
+            {
+                "id" : 3,
+                "location" : "pak",
+                "phnumber" : "03002230155"
+            }
+        ],
+        "addresses" : [
+            {
+                "id" : 2,
+                "location" : "pak",
+                "address" : "House No 83 sector 4f, mujhaid colony Orangi town S.I.T.E Karachi"
+            }
+        ]
+    },
+    "appcontactUK" : {
+        "emails" : [
+            {
+                "location" : "both",
+                "email" : "info@mujaddidalifsani.com"
+            }
+        ],
+        "phonenumbers" : [
+            {
+                "id" : 1,
+                "location" : "uk",
+                "phnumber" : "00447972377903"
+            }
+        ],
+        "addresses" : [
+            {
+                "id" : 1,
+                "location" : "uk",
+                "address" : "20 Gunthorpe Drive,Sherwood Nottingham, NG5 3DW"
+            }
+        ]
+    },
+    "appsociallinks" : [
+        {
+            "id" : "facebook",
+            "logourl" : "fab fa-facebook-f",
+            "iconurl" : "fab fa-facebook-f",
+            "sociallink" : "#"
+        },
+        {
+          "id" : "twitter",
+          "logourl" : "fab fa-twitter",
+          "iconurl" : "fab fa-twitter",
+          "sociallink" : "#"
+        },
+        {
+          "id" : "googleplus",
+          "logourl" : "fab fa-google-plus-g",
+          "iconurl" : "fab fa-google-plus-g",
+          "sociallink" : "#"
+        },
+        {
+          "id" : "linkedin",
+          "logourl" : "fab fa-linkedin",
+          "iconurl" : "fab fa-linkedin",
+          "sociallink" : "#"
+        },
+        {
+          "id" : "instagram",
+          "logourl" : "fab fa-instagram",
+          "iconurl" : "fab fa-instagram",
+          "sociallink" : "#"
+        }
+    ],
+    "appmiscdetails" : {
+        "operationaltimings" : ["Mon – Fri: 9AM - 8PM", "Sat: 9AM - 5PM", "Sun (OFF)"],
+        "showloginbutton" : false,
+        "showgoogleplaystore" : false,
+        "showappstore" : false
+    },
+
+    "approutes" : [
+        {
+            "id" : 1,
+            "title" : "Home",
+            "desc" : "Home",
+            "hovertext" : "Home",
+            "redirecttolink" : "/home",
+            "subroutes" : []
+        },
+        {
+            "id" : 2,
+            "title" : "About Us",
+            "desc" : "About Us",
+            "hovertext" : "About Us",
+            "redirecttolink" : "#",
+            "subroutes" : [
+                {
+                    "id" : 2.1,
+                    "title" : "Introduction",
+                    "desc" : "Introduction",
+                    "hovertext" : "Introduction",
+                    "redirecttolink" : "/aboutus/introduction",
+                    "subroutes" : []
+                },
+                {
+                    "id" : 2.2,
+                    "title" : "Chairman's Message",
+                    "desc" : "Chairman's Message",
+                    "hovertext" : "Chairman's Message",
+                    "redirecttolink" : "/aboutus/chairmansmessage",
+                    "subroutes" : []
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "title" : "Services",
+            "desc" : "Services",
+            "hovertext" : "Services",
+            "redirecttolink" : "/services",
+            "subroutes" : [
+                {
+                  "id": 3.1,
+                  "title": "MAST Community Education Programme",
+                  "desc": "MAST Community Education Programme",
+                  "hovertext": "MAST Community Education Programme",
+                  "redirecttolink": "/services/mast-community-education-programme",
+                  "subroutes": [
+                    {
+                      "id": 3.11,
+                      "title": "Hifz",
+                      "desc": "Hifz",
+                      "hovertext": "Hifz",
+                      "redirecttolink": "/services/MAST/Hifz",
+                      "subroutes": []
+                    },
+                    {
+                      "id": 3.12,
+                      "title": "Nazra",
+                      "desc": "Nazra",
+                      "hovertext": "Nazra",
+                      "redirecttolink": "/services/MAST/Nazra",
+                      "subroutes": []
+                    },
+                    {
+                      "id": 3.13,
+                      "title": "Qaida",
+                      "desc": "Qaida",
+                      "hovertext": "Qaida",
+                      "redirecttolink": "/services/MAST/Qaida",
+                      "subroutes": []
+                    },
+                    {
+                      "id": 3.14,
+                      "title": "Dars-e-Nazami",
+                      "desc": "Dars-e-Nazami",
+                      "hovertext": "Dars-e-Nazami",
+                      "redirecttolink": "/services/MAST/darsenizami",
+                      "subroutes": []
+                    },
+                    {
+                      "id": 3.15,
+                      "title": "Schooling",
+                      "desc": "Schooling",
+                      "hovertext": "Schooling",
+                      "redirecttolink": "/services/MAST/schooling",
+                      "subroutes": []
+                    }
+                  ]
+                },
+                {
+                  "id": 3.2,
+                  "title": "Welfare",
+                  "desc": "Welfare",
+                  "hovertext": "Welfare",
+                  "redirecttolink": "/services/welfare",
+                  "subroutes": [
+                    {
+                      "id": 3.21,
+                      "title": "Family Adoption",
+                      "desc": "Family Adoption",
+                      "hovertext": "Family Adoption",
+                      "redirecttolink": "/services/welfare/familyadoption",
+                      "subroutes": []
+                    }
+                  ]
+                },
+                {
+                  "id": 3.3,
+                  "title": "Arrange Collective Qurbani",
+                  "desc": "Arrange Collective Qurbani",
+                  "hovertext": "Arrange Collective Qurbani",
+                  "redirecttolink": "/services/collectivequrbani",
+                  "subroutes": []
+                },
+                {
+                  "id": 3.4,
+                  "title": "Tajheez-o-Takfeen",
+                  "desc": "Tajheez-o-Takfeen",
+                  "hovertext": "Tajheez-o-Takfeen",
+                  "redirecttolink": "/services/tahjeezotakfeen",
+                  "subroutes": []
+                },
+                {
+                  "id": 3.5,
+                  "title": "Nai Zandagi",
+                  "desc": "Nai Zandagi",
+                  "hovertext": "Nai Zandagi",
+                  "redirecttolink": "/services/naizindagi",
+                  "subroutes": []
+                },
+                {
+                  "id": 3.6,
+                  "title": "Mezbaan",
+                  "desc": "Mezbaan",
+                  "hovertext": "Mezbaan",
+                  "redirecttolink": "#",
+                  "subroutes": [
+                    {
+                      "id": 3.61,
+                      "title": "Dasterkhwan",
+                      "desc": "Dasterkhwan",
+                      "hovertext": "Dasterkhwan",
+                      "redirecttolink": "/services/mezban/dasterkhwan",
+                      "subroutes": []
+                    },
+                    {
+                      "id": 3.62,
+                      "title": "Provide Rationing",
+                      "desc": "Provide Rationing",
+                      "hovertext": "Provide Rationing",
+                      "redirecttolink": "/services/mezban/rationing",
+                      "subroutes": []
+                    },
+                    {
+                      "id": 3.63,
+                      "title": "Eid Aid Packages",
+                      "desc": "Eid Aid Packages",
+                      "hovertext": "Eid Aid Packages",
+                      "redirecttolink": "/services/mezban/eidaidpackages",
+                      "subroutes": []
+                    },
+                    {
+                      "id": 3.64,
+                      "title": "Ramadhan",
+                      "desc": "Ramadhan",
+                      "hovertext": "Ramadhan",
+                      "redirecttolink": "/services/mezban/ramadhan",
+                      "subroutes": []
+                    }
+                  ]
+                },
+                {
+                  "id": 3.7,
+                  "title": "Construciton",
+                  "desc": "Construciton",
+                  "hovertext": "Construciton",
+                  "redirecttolink": "/services/construction",
+                  "subroutes": [
+                    {
+                      "id": 3.71,
+                      "title": "Renovate of Masajids",
+                      "desc": "Renovate of Masajids",
+                      "hovertext": "Renovate of Masajids",
+                      "redirecttolink": "/services/construction/renovatemasajids",
+                      "subroutes": []
+                    },
+                    {
+                      "id": 3.72,
+                      "title": "Renovate of Islamic Schools",
+                      "desc": "Renovate of Islamic Schools",
+                      "hovertext": "Renovate of Islamic Schools",
+                      "redirecttolink": "/services/construction/renovateschools",
+                      "subroutes": []
+                    }
+                  ]
+                },
+                {
+                  "id": 3.8,
+                  "title": "RO Plant",
+                  "desc": "RO Plant",
+                  "hovertext": "RO Plant",
+                  "redirecttolink": "/services/roplant",
+                  "subroutes": []
+                },
+                {
+                  "id": 3.9,
+                  "title": "Online Taweezat / Istekhara",
+                  "desc": "Online Taweezat / Istekhara",
+                  "hovertext": "Online Taweezat / Istekhara",
+                  "redirecttolink": "/services/istekhara",
+                  "subroutes": []
+                },
+                {
+                  "id": 3.10,
+                  "title": "Online Sadqah",
+                  "desc": "Online Sadqah",
+                  "hovertext": "Online Sadqah",
+                  "redirecttolink": "/services/onlinesadqah",
+                  "subroutes": []
+                },
+                {
+                  "id": 7.2,
+                  "title": "Aqiqah",
+                  "desc": "Aqiqah",
+                  "hovertext": "Aqiqah",
+                  "redirecttolink": "/services/onlineaqiqah",
+                  "subroutes": []
+                }
+              ]
+        },
+        {
+            "id": 4,
+            "title": "Future Projects",
+            "desc": "Future Projects",
+            "hovertext": "Future Projects",
+            "redirecttolink": "#",
+            "subroutes" : [
+                {
+                  "id": 4.1,
+                  "title": "University",
+                  "desc": "University",
+                  "hovertext": "University",
+                  "redirecttolink": "/futureprojects/university",
+                  "subroutes": []
+                },
+                {
+                  "id": 4.2,
+                  "title": "City",
+                  "desc": "City",
+                  "hovertext": "City",
+                  "redirecttolink": "/futureprojects/city",
+                  "subroutes": []
+                },
+                {
+                  "id": 4.3,
+                  "title": "Job Bank",
+                  "desc": "Job Bank",
+                  "hovertext": "Job Bank",
+                  "redirecttolink": "/futureprojects/jobbank",
+                  "subroutes": []
+                },
+                {
+                  "id": 4.4,
+                  "title": "Online Quran Academy",
+                  "desc": "Online Quran Academy",
+                  "hovertext": "Online Quran Academy",
+                  "redirecttolink": "/futureprojects/onlinequranacademy",
+                  "subroutes": [
+                    {
+                      "id": 4.41,
+                      "title": "Online Quran Admission",
+                      "desc": "Online Quran Admission",
+                      "hovertext": "Online Quran Admission",
+                      "redirecttolink": "/futureprojects/onlineadmission",
+                      "subroutes": []
+                    },
+                    {
+                      "id": 4.42,
+                      "title": "Quran App / Tafteesh",
+                      "desc": "Quran App / Tafteesh",
+                      "hovertext": "Quran App / Tafteesh",
+                      "redirecttolink": "/futureprojects/qurantafteesh",
+                      "subroutes": []
+                    }
+                  ]
+                },
+                {
+                  "id": 4.5,
+                  "title": "Medical",
+                  "desc": "Medical",
+                  "hovertext": "Medical",
+                  "redirecttolink": "/futureprojects/medicalcomplex",
+                  "subroutes": [
+                    {
+                      "id": 4.51,
+                      "title": "Blood Bank and Thalassemia Center",
+                      "desc": "Blood Bank and Thalassemia Center",
+                      "hovertext": "Blood Bank and Thalassemia Center",
+                      "redirecttolink": "/futureprojects/bloodbank",
+                      "subroutes": []
+                    },
+                    {
+                      "id": 4.52,
+                      "title": "Clinic",
+                      "desc": "Clinic",
+                      "hovertext": "Clinic",
+                      "redirecttolink": "/futureprojects/clinic",
+                      "subroutes": []
+                    }
+                  ]
+                }
+              ]
+        },
+        {
+            "id": 5,
+            "title": "Media",
+            "desc": "Media",
+            "hovertext": "Media",
+            "redirecttolink": "/media/media",
+            "subroutes": []
+        },
+        {
+            "id": 6,
+            "title": "News",
+            "desc": "News",
+            "hovertext": "News",
+            "redirecttolink": "/media/news",
+            "subroutes": []
+        },
+        {
+            "id": 7,
+            "title": "Donations",
+            "desc": "Donations",
+            "hovertext": "Donations",
+            "redirecttolink": "#",
+            "subroutes" : [
+                {
+                  "id": 7.3,
+                  "title": "Bank Details",
+                  "desc": "Bank Details",
+                  "hovertext": "Bank Details",
+                  "redirecttolink": "/donation/bankdetails",
+                  "subroutes": []
+                },
+                {
+                  "id": 7.4,
+                  "title": "Ramadhan",
+                  "desc": "Ramadhan",
+                  "hovertext": "Ramadhan",
+                  "redirecttolink": "/donation/packages",
+                  "subroutes": [
+                    {
+                      "id": 7.41,
+                      "title": "For UK Donors",
+                      "desc": "For UK Donors",
+                      "hovertext": "For UK Donors",
+                      "redirecttolink": "/donation/packages",
+                      "subroutes": []
+                    },
+                    {
+                      "id": 7.42,
+                      "title": "For PAK Donors",
+                      "desc": "For PAK Donors",
+                      "hovertext": "For PAK Donors",
+                      "redirecttolink": "/donation/packages",
+                      "subroutes": []
+                    }
+                  ]
+                }
+              ]
+        },
+        {
+            "id": 8,
+            "title": "Contact Us",
+            "desc": "Contact Us",
+            "hovertext": "Contact Us",
+            "redirecttolink": "/AboutUs/contactus",
+            "subroutes": []
+        }
+    ],
+    "MainSlider" :[
+      {
+        "id" : 1,
+        "displaytext" : "Donation is the best humanity",
+        "bgImage" : "assets/img/slider/slider-1.jpg",
+        "showDonationButton" : true,
+        "DonationButtonText" : "DONATE NOW",
+        "DonationButtonRedirectLink" : "#",
+        "showCharityPill" : true,
+        "CharityPillText" : "CHARITY FUND",
+        "CharityPillRedirectLink" : "#",
+        "CharityPillIcon" : "far fa-heart-circle"
+      },
+      {
+        "id" : 2,
+        "displaytext" : "Donation is the best humanity",
+        "bgImage" : "assets/img/slider/slider-2.jpg",
+        "showDonationButton" : true,
+        "DonationButtonText" : "DONATE NOW",
+        "DonationButtonRedirectLink" : "#",
+        "showCharityPill" : true,
+        "CharityPillText" : "CHARITY FUND",
+        "CharityPillRedirectLink" : "#",
+        "CharityPillIcon" : "far fa-heart-circle"
+      },
+      {
+        "id" : 3,
+        "displaytext" : "Donation is the best humanity",
+        "bgImage" : "assets/img/slider/slider-3.jpg",
+        "showDonationButton" : true,
+        "DonationButtonText" : "DONATE NOW",
+        "DonationButtonRedirectLink" : "#",
+        "showCharityPill" : true,
+        "CharityPillText" : "CHARITY FUND",
+        "CharityPillRedirectLink" : "#",
+        "CharityPillIcon" : "far fa-heart-circle"
+      }
+    ],
+    "Features" : {
+      "displaytext" : "Join with us to know our project for charity peoples",
+      "listFeatures" : [
+        {
+          "displaytext" : "Give Donation",
+          "bgImage" : "assets/img/features/Masjid01.jpg",
+          "icon" : "features-icon",
+          "hoverText" : "Masjid Under Construction",
+          "hoverDescription" : "Beautiful Jama Masjid Mujaddid Alf Sani",
+          "hoverIcon" : "flaticon-donation-3",
+          "redirecttolink" : "#"
+         },
+         {
+          "displaytext" : "Ramadhan Package",
+          "bgImage" : "assets/img/features/Ramadhan02.jpg",
+          "icon" : "features-icon",
+          "hoverText" : "Ration Distribution",
+          "hoverDescription" : "Every year we distribute ration to poor and needy famillies without any difference",
+          "hoverIcon" : "flaticon-donation-3",
+          "redirecttolink" : "#"
+         },
+         {
+          "displaytext" : "Get Helps Children",
+          "bgImage" : "assets/img/features/Madarsah03.jpg",
+          "icon" : "features-icon",
+          "hoverText" : "Give Donation",
+          "hoverDescription" : "We provide Islamic Education and education according to today's world need",
+          "hoverIcon" : "flaticon-donation-3",
+          "redirecttolink" : "#"
+         }
+      ]
+    },
+    "Services" :{
+      "displaytext" : "Help us for our most humanist projects",
+      "listServices" : [
+        {
+          "displaytext" : "Save For Money",
+          "shortdescription" : "Avoids pleasure itself becau it is pleasure but becausthose who do not know how",
+          "bgImage" : "assets/img/icon/01.png",
+          "redirecttolink" : "#"
+         },
+         {
+          "displaytext" : "Charity For Study",
+          "shortdescription" : "Avoids pleasure itself becau it is pleasure but becausthose who do not know how",
+          "bgImage" : "assets/img/icon/02.png",
+          "redirecttolink" : "#"
+         },
+         {
+          "displaytext" : "Charity For Water",
+          "shortdescription" : "Avoids pleasure itself becau it is pleasure but becausthose who do not know how",
+          "bgImage" : "assets/img/icon/03.png",
+          "redirecttolink" : "#"
+         },
+         {
+          "displaytext" : "Work For Food",
+          "shortdescription" : "Avoids pleasure itself becau it is pleasure but becausthose who do not know how",
+          "bgImage" : "assets/img/icon/04.png",
+          "redirecttolink" : "#"
+         }
+      ]
+    },
+    "Causes" :{
+      "displaytext" : "Explore Our Latest Causes that we work on",
+      "listCauses" : [
+        {
+          "displaytext" : "Save For Money",
+          "shortdescription" : "Avoids pleasure itself becau it is pleasure but becausthose who do not know how",
+          "bgImage" : "/assets/img/icon/01.png",
+          "redirecttolink" : "#"
+        },
+        {
+          "displaytext" : "Save For Money",
+          "shortdescription" : "Avoids pleasure itself becau it is pleasure but becausthose who do not know how",
+          "bgImage" : "/assets/img/icon/01.png",
+          "redirecttolink" : "#"
+        },
+        {
+          "displaytext" : "Save For Money",
+          "shortdescription" : "Avoids pleasure itself becau it is pleasure but becausthose who do not know how",
+          "bgImage" : "/assets/img/icon/01.png",
+          "redirecttolink" : "#"
+        }
+      ]
+    },
+    "Donations":{
+
+    },
+    "Video" :{
+
+    }
+}
