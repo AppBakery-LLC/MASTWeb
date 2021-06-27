@@ -1,12 +1,12 @@
 {
-    "appname" : "Mujaddid Alif Sani",
+    "appname" : "Mujaddid Alf Sani",
     "wlfshortname" : "MAST",
     "wlflongname" : "Mujaddid Alf Sani Welfare Trust International",
-    "appshortdesc" : "Mujaddid Alif Sani",
-    "applongdesc" : "Mujaddid Alif Sani",
-    "appsmallwriteup" : "Mujaddid Alif Sani",
-    "applongwriteup" : "Mujaddid Alif Sani",
-    "applogourl" : "/assets/img/logo/logo_mast.jpg",
+    "appshortdesc" : "Mujaddid Alf Sani",
+    "applongdesc" : "Mujaddid Alf Sani",
+    "appsmallwriteup" : "Mujaddid Alf Sani",
+    "applongwriteup" : "Mujaddid Alf Sani",
+    "applogourl" : "/assets/img/logo/logo_mast.png",
     "appcontact" : {
         "emails" : [
             {
@@ -23,12 +23,12 @@
             {
                 "id" : 2,
                 "location" : "pak",
-                "phnumber" : "02136740009"
+                "phnumber" : "00922136740009"
             },
             {
                 "id" : 3,
                 "location" : "pak",
-                "phnumber" : "03002230155"
+                "phnumber" : "00923002230155"
             }
         ],
         "addresses" : [
@@ -516,19 +516,19 @@
     "MainSlider" :[
       {
         "id" : 1,
-        "displaytext" : "Donation is the best humanity",
+        "displaytext" : "",
         "bgImage" : "assets/img/slider/slider-1.jpg",
         "showDonationButton" : true,
         "DonationButtonText" : "DONATE NOW",
         "DonationButtonRedirectLink" : "#",
-        "showCharityPill" : true,
+        "showCharityPill" : false,
         "CharityPillText" : "CHARITY FUND",
         "CharityPillRedirectLink" : "#",
         "CharityPillIcon" : "far fa-heart-circle"
       },
       {
         "id" : 2,
-        "displaytext" : "Donation is the best humanity",
+        "displaytext" : "The best among you (Muslims) are those who learn the Qur’an and teach it. (Al-Hadith)",
         "bgImage" : "assets/img/slider/slider-2.jpg",
         "showDonationButton" : true,
         "DonationButtonText" : "DONATE NOW",
@@ -540,12 +540,12 @@
       },
       {
         "id" : 3,
-        "displaytext" : "Donation is the best humanity",
+        "displaytext" : "",
         "bgImage" : "assets/img/slider/slider-3.jpg",
         "showDonationButton" : true,
         "DonationButtonText" : "DONATE NOW",
         "DonationButtonRedirectLink" : "#",
-        "showCharityPill" : true,
+        "showCharityPill" : false,
         "CharityPillText" : "CHARITY FUND",
         "CharityPillRedirectLink" : "#",
         "CharityPillIcon" : "far fa-heart-circle"
@@ -587,28 +587,28 @@
       "displaytext" : "Help us for our most humanist projects",
       "listServices" : [
         {
-          "displaytext" : "Save For Money",
-          "shortdescription" : "Avoids pleasure itself becau it is pleasure but becausthose who do not know how",
-          "bgImage" : "assets/img/icon/01.png",
-          "redirecttolink" : "#"
-         },
-         {
-          "displaytext" : "Charity For Study",
-          "shortdescription" : "Avoids pleasure itself becau it is pleasure but becausthose who do not know how",
-          "bgImage" : "assets/img/icon/02.png",
-          "redirecttolink" : "#"
-         },
-         {
-          "displaytext" : "Charity For Water",
-          "shortdescription" : "Avoids pleasure itself becau it is pleasure but becausthose who do not know how",
-          "bgImage" : "assets/img/icon/03.png",
-          "redirecttolink" : "#"
-         },
-         {
-          "displaytext" : "Work For Food",
-          "shortdescription" : "Avoids pleasure itself becau it is pleasure but becausthose who do not know how",
+          "displaytext" : "Dasterkhwan",
+          "shortdescription" : "Feed the hungry, visit the sick and set free the captives. -  Sahih Al-Bukhari, Volume 7, Hadith 552",
           "bgImage" : "assets/img/icon/04.png",
-          "redirecttolink" : "#"
+          "redirecttolink" : "/services/mezban/dasterkhwan"
+         },
+         {
+          "displaytext" : "Child Adoption",
+          "shortdescription" : "Myself and the caretaker of an orphan will be in Paradise like this,” and he held his two fingers together. (Hadees Pak)",
+          "bgImage" : "assets/img/icon/02.png",
+          "redirecttolink" : "/services/welfare/familyadoption"
+         },
+         {
+          "displaytext" : "Nai Zindagi",
+          "shortdescription" : "Marriage is the basis for blessings and children are an abundance of mercy.  (Hadees Pak)",
+          "bgImage" : "assets/img/icon/01.png",
+          "redirecttolink" : "/services/naizindagi"
+         },
+         {
+          "displaytext" : "RO Plant",
+          "shortdescription" : "We have RO plant purification service for you. We find this service as the basic need for every one.",
+          "bgImage" : "assets/img/icon/03.png",
+          "redirecttolink" : "/services/roplant"
          }
       ]
     },
@@ -639,6 +639,7 @@
 
     },
     "Video" :{
-
+      "vidLink" : "https://fb.watch/4Fsgptusyz/",
+      "thumbnail" : "assets/img/bg/home_bg.jpg"
     }
 }
