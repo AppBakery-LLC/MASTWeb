@@ -549,6 +549,30 @@
         "CharityPillText" : "CHARITY FUND",
         "CharityPillRedirectLink" : "#",
         "CharityPillIcon" : "far fa-heart-circle"
+      },
+      {
+        "id" : 4,
+        "displaytext" : "",
+        "bgImage" : "assets/img/slider/slider-4.jpg",
+        "showDonationButton" : true,
+        "DonationButtonText" : "DONATE NOW",
+        "DonationButtonRedirectLink" : "#",
+        "showCharityPill" : false,
+        "CharityPillText" : "CHARITY FUND",
+        "CharityPillRedirectLink" : "#",
+        "CharityPillIcon" : "far fa-heart-circle"
+      },
+      {
+        "id" : 5,
+        "displaytext" : "",
+        "bgImage" : "assets/img/slider/slider-5.jpg",
+        "showDonationButton" : true,
+        "DonationButtonText" : "DONATE NOW",
+        "DonationButtonRedirectLink" : "#",
+        "showCharityPill" : false,
+        "CharityPillText" : "CHARITY FUND",
+        "CharityPillRedirectLink" : "#",
+        "CharityPillIcon" : "far fa-heart-circle"
       }
     ],
     "Features" : {
