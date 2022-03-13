@@ -30,11 +30,7 @@ class Introduction extends Component{
                                     <h4>Philosophy</h4>
                                 </div>
                                 </div>
-                                <p>Alhamdulillah “MUJADDID ALF SANI (R.A) WELFARE TRUST” believes in the philosophy of Welfare for all..without any discrimination of Color, Cast or Creed. Strictly following Islamic Principles  as a guideline for rendering free of cost services to humanity, the organization is extending the domain of its services day by day.
-
-Accountability, being the top priority of the Trust, the welfare activities are carried out to reach every deserving person. We aim at providing relief to the indigent humanity and  to every destitute person who requires a helping hand.
-
-As the famous Chinese proverb goes, “Give a man a fish; you have fed him for today. Teach a man to fish; and you have fed him for a lifetime”, “MUJADDID ALF SANI (R.A) WELFARE TRUST” strives to create opportunities for the people to develop self reliance and to make them a useful member of the society.</p>
+                                <p>Alhamdulillah “MUJADDID ALF SANI (R.A) WELFARE TRUST” believes in the philosophy of Welfare for all..without any discrimination of Color, Cast or Creed. Strictly following Islamic Principles as a guideline for rendering free of cost services to humanity, the organization is extending the domain of its services day by day. Accountability, being the top priority of the Trust, the welfare activities are carried out to reach every deserving person. We aim at providing relief to the indigent humanity and to every destitute person who requires a helping hand. As the famous Chinese proverb goes, “Give a man a fish; you have fed him for today. Teach a man to fish; and you have fed him for a lifetime”, “MUJADDID ALF SANI (R.A) WELFARE TRUST” strives to create opportunities for the people to develop self reliance and to make them a useful member of the society.</p>
                             </div>
                             </div>
                             <div className="col-xl-4 col-lg-4">
@@ -47,26 +43,14 @@ As the famous Chinese proverb goes, “Give a man a fish; you have fed him for t
                                     <h4>AIMS OF MUJADDID ALF SANI (R.A) WELFARE TRUST</h4>
                                 </div>
                                 </div>
-                                <p>Conduct RohaniIjtemat (Gatherings).
-Construciton & Renovate of Masajids and Islamic Schools.
-Ramdan Aid Package.
-Eid Aid Packages.
-Arrange Collective Qurbani.
-Provide Rationing.
-Tajheez-o-Takfeen.
-Construct Hospitals.
-Nai Zandagi.
-Conduct the Well Digging for Arrange of Drinking Water
-Employment Schemes.
-Provide food and drinking water.
-Loan Relief Fund.
-Repairing of Houses.
-Monthly Allowance Scheme.
-Provide the Employment and Employment Scheme.
-Provide the Aid for Paying Bills for Poor Families.
-Provide  food for prisoners and Legal Aid.
-provide on discounted prices Good Quality Milk, and fresh Bread.
-Establish new utility centers.</p>
+                                <p>Conduct Rohani Ijtemat (Gatherings). Construction & Renovate of Masajids and
+Islamic Schools. Ramadan Aid Package. Eid Aid Packages. Collective Qurbani.
+Provide Rationing. Tajheez-o-Takfeen. Construct Hospitals. Nai Zandagi. Conduct
+the Well Digging for Arrange of Drinking Water Employment Schemes. Provide food
+and drinking water. Loan Relief Fund. Repairing of Houses. Monthly Allowance
+Scheme. Provide the Employment and Employment Scheme. Provide the Aid for
+Paying Bills for Poor Families. Provide food for prisoners and Legal Aid. provide on
+discounted prices Good Quality Milk, and fresh Bread. Establish new utility centers.</p>
                             </div>
                             </div>
                             <div className="col-xl-4 col-lg-4">

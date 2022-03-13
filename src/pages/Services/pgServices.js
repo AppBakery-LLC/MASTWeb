@@ -16,21 +16,11 @@ class Services extends Component{
                             <span><i className="far fa-heart-circle" /> SERVICES</span>
                             <h1>Our Services</h1>
                             
-                            <h4>
-                                
-                                Dawat Al Khair</h4>
+                            <h4>Dawat Al Khair</h4>
 
 
 
-<p>In addition to educational projects, it is to mention that our welfare trust also takes care of students’ lunch, providing groceries for their families etc. Such activities are mentioned below:</p>
-
-
-
-<ul><li>Daily lunch for orphan students, teachers and other deserving students. </li><li>Monthly distribution of ration bags to 50 teachers and lower staff members.</li><li>Distribution of ration bags among students’ families every Ramadan with co-operation of other organizations.</li><li>Monthly distribution of rice to students.</li><li>Ration distribution to those students whose parents are jobless.</li></ul>
-
-
-
-<p></p>
+<p>A non-political Islamic organization working for the propagation of the Quran and Sunnah across the world. It was established by Sufi Basafa Nisar Ul Millah Waddin Sufi Nisar Ul Haq Nasqshbandi R.A in Karachi, Pakistan. Ameer of Dawat Al Khair started this Islamic revolution to clean the growing filth in the society, drag people on the path of Allah Almighty and convey the true teachings of Islam.</p>
 
 
 
@@ -38,8 +28,24 @@ class Services extends Component{
 
 
 
-<p>We give financial help to students studying for higher education in universities and professional colleges. We also provide possible financial help for girls to get married. Possible medical facilities are provided to the ill people of our locality who are completely helpless.</p>
+<p>We give financial help to students studying for higher education in universities and professional colleges. We also provide possible financial help for girls to get married. Possible medical facilities are provided to the ill people of our locality who are completely helpless. MASWT’s model of education relies upon 7 key pillars</p>
 
+<ol>
+    <li>1. Identifying and serving the most needy in our rural community</li>
+    <li>2. Focusing on achieving positive outcomes for students</li>
+    <li>3. Using buildings and facilities for multiuse reducing resource waste</li>
+    <li>4. Providing a gender balance reflecting our student population</li>
+    <li>5. Providing nationally recognized quality standards in our delivery of secular and Islamic education</li>
+    <li>6. Providing adult literacy support to families of children we serve</li>
+    <li>7. Professional management of all our services</li>
+</ol>
+
+
+<p>Education is a neglected field in Pakistan and data shows that primary school enrollment is very low in Pakistan. In addition nearly 30% of children drop out from the 3rd class onward. Generally parents cannot afford to send their children to school. Parents with five to six children cannot afford school fees, books and uniforms. For this reason our provision is either free or substantially subsidized to promote access to education.</p>
+
+
+
+<p>The United Nations Development Programme for Pakistan launched its National Human Development Report (NHDR) – Unleashing the potential of a Young Pakistan (2/5/18). It focuses on youth empowerment: quality education, gainful employment and meaningful engagement. MAST is integrating Islamic stiudies with education. We believe that conventional education alone cannot deliver the active and productive citizens of the future. MASWT provides the opportunity to students to learn Arabic and memorize the Quran. Our schools go beyond just education in scripture, we offer an allencompassing Islamic environment for children and young adults to acquire secular education. Our schools aim to instill values and morals in students while delivering an education conscious of Islamic foundations. Faith is increasingly a crucial part of the Pakistani identity and supports the zeal for knowledge and development.</p>
 
 
 <h4>Medical</h4>
@@ -47,6 +53,22 @@ class Services extends Component{
 
 
 <p>Through this communique, we hereby inform you that we intend to establish a solid medical and health department in our organization being fully self sufficient to meet all regular and emergency cases which we frequently come across. During the period of experience, we happen to see that a number of young boys and girls died at very early age only because they were not properly diagnosed and treated. We have taken this matter very seriously and rush for the treatment and take them to big hospitals where necessary.</p>
+
+
+
+<p>MASWT is delivering education in primary (grades 1-5), middle (grades 6-8), high (grades 9-10) leading to the Secondary School Certificate or SSC), and intermediate (grades 11-12), leading to a Higher Secondary School Certificate.</p>
+
+
+
+<p>Ways that you can help us include:</p>
+<ol>
+    <li>• Sponsor and orphan</li>
+    <li>• Help us to open a school</li>
+    <li>• Support ICT equipment acquisition</li>
+    <li>• Purchase of laboratory equipment</li>
+    <li>• Acquisition of library and learning materials</li>
+    <li>• Teacher training and specialization</li>
+</ol>
 
 
 

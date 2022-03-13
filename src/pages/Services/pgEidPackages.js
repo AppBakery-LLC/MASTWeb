@@ -14,7 +14,7 @@ class EidPackages extends Component{
                         <div className="abbout-us-wrapper mb-30">
                         <div className="section-title mb-40">
                             <span><i className="far fa-heart-circle" /> Eid Packages</span>
-                            <p className="mr-50"></p>
+                            <p>We have launched our Eid AID Package Campaign so that children can celebrate these blessed occasions like others. Our EID AID Package contain new clothes, shoes, toys and sweets for children who don’t have the opportunity to receive presents. Our team takes care to distribute gifts, bringing hope to the children of poverty-stricken areas across.</p>
                         </div>
                         </div>
                     </div>

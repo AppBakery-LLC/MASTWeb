@@ -39,9 +39,9 @@ class NaiZindagi extends Component{
                             <h2>HOW DO WE HELP?</h2>
                             <p>MAST helps in marriages in three different ways;</p>
                             <ol>
-                            <li>Essential items of life are provided eg. provision of cooking utensils, clothes and shoes?</li>
-                            <li>Furniture including a bed, dressing table, cupboard and a divider all locally sourced promoting a local economy.</li>
-                            <li>A wedding celebration dinner of up to 200 people is arranged by MAST</li>
+                            <li>• Essential items of life are provided eg. provision of cooking utensils, clothes and shoes?</li>
+                            <li>• Furniture including a bed, dressing table, cupboard and a divider all locally sourced promoting a local economy.</li>
+                            <li>• A wedding celebration dinner of up to 200 people is arranged by MAST</li>
                             </ol>
                             <p>At least one of the items above is provided to a family subject to assessment, but depending upon the level of need, all the three above mentioned items could also be provided to a bride.</p>
                         </div>
