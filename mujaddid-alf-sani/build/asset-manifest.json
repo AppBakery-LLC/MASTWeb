@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./index.html/static/css/main.14307b74.css",
+    "main.js": "./index.html/static/js/main.d0fd7df8.js",
+    "static/js/377.6bd0221b.chunk.js": "./index.html/static/js/377.6bd0221b.chunk.js",
+    "static/media/AuditReport2015.pdf": "./index.html/static/media/AuditReport2015.a64d69ebde6b664ae3d7.pdf",
+    "static/media/slider-4.jpg": "./index.html/static/media/slider-4.02a73319fbd98993383d.jpg",
+    "static/media/slider-3.jpg": "./index.html/static/media/slider-3.c315d45cbebf654c61b9.jpg",
+    "static/media/Madarsah03.jpg": "./index.html/static/media/Madarsah03.148eae52826baa4d5a5c.jpg",
+    "static/media/donatePic.jpg": "./index.html/static/media/donatePic.a729ae07efde9e6fdc5a.jpg",
+    "static/media/Ramadhan02.jpg": "./index.html/static/media/Ramadhan02.992dc014eb3e2b2a16dc.jpg",
+    "static/media/slider-5.jpg": "./index.html/static/media/slider-5.b30fadc2921ed15da512.jpg",
+    "static/media/slider-2.jpg": "./index.html/static/media/slider-2.f47a30dc34bf4c1a7261.jpg",
+    "static/media/bg2.jpg": "./index.html/static/media/bg2.73cf1f46f786db0f4c39.jpg",
+    "static/media/slider-1.jpg": "./index.html/static/media/slider-1.90b713578a4aba195e96.jpg",
+    "static/media/shelter.jpg": "./index.html/static/media/shelter.9683b2e768f0f2c3aab8.jpg",
+    "static/media/5.jpg": "./index.html/static/media/5.10aad5defa342f7ca4be.jpg",
+    "static/media/6.jpg": "./index.html/static/media/6.6a5c35d632143cc46735.jpg",
+    "static/media/Masjid01.jpg": "./index.html/static/media/Masjid01.575d5de1a196d744e8e5.jpg",
+    "static/media/7.jpg": "./index.html/static/media/7.3f83284f24d490c6f9e5.jpg",
+    "static/media/1.jpg": "./index.html/static/media/1.03e7a9d357ad539cee1c.jpg",
+    "static/media/bg1.jpg": "./index.html/static/media/bg1.b679c83e3905ae6cbd51.jpg",
+    "static/media/poverty.jpg": "./index.html/static/media/poverty.fb32e00717685a114908.jpg",
+    "static/media/4.jpg": "./index.html/static/media/4.490ca53307dc98b2f816.jpg",
+    "static/media/3.jpg": "./index.html/static/media/3.aa11db56eef7822a6920.jpg",
+    "static/media/2.jpg": "./index.html/static/media/2.c8eaebdc48cabe93083d.jpg",
+    "static/media/education.jpg": "./index.html/static/media/education.c8eaebdc48cabe93083d.jpg",
+    "static/media/1.png": "./index.html/static/media/1.bfee762bac442bc18262.png",
+    "static/media/donatePic.png": "./index.html/static/media/donatePic.8f39e799803d893505a6.png",
+    "static/media/logo.png": "./index.html/static/media/logo.d36f68adf317c65c0552.png",
+    "index.html": "./index.html/index.html",
+    "main.14307b74.css.map": "./index.html/static/css/main.14307b74.css.map",
+    "main.d0fd7df8.js.map": "./index.html/static/js/main.d0fd7df8.js.map",
+    "377.6bd0221b.chunk.js.map": "./index.html/static/js/377.6bd0221b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14307b74.css",
+    "static/js/main.d0fd7df8.js"
+  ]
+}
